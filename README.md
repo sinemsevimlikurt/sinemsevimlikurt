@@ -19,7 +19,7 @@
   </a>
 </div>
 
-Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:sevimlikurtsinem@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/sinem-sevimlikurt/). I'm always excited to collaborate on interesting projects or discuss Front-End development ideas!
+Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:sevimlikurtsinem@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/sinem-sevimlikurt/). I'm always excited to collaborate on interesting projects or discuss Full Stack development ideas!
 
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=110&section=footer" />
